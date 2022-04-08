@@ -1,0 +1,58 @@
+Pour vendredi 24/09:
+
+1)Groupe.
+2)Choix mission.
+3)Faire un site vitrine.
+4)Connexion+inscription.
+
+BEN AHMED
+0612561406
+obenahmed@yahoo.fr
+Limoges
+
+
+Société Auto école projet :
+
+Un site pour s'inscrire et participer en ligne (QUIZZ) et pouvoir consulter un planning pour assister au cours de conduite pour le code.
+
+Elaboration du cahier des charges 
+
+Préambule:
+A partir d'une réunion ou un entretien avec les futurs utilisateurs de l'application on doit repertoriés les besoins suivants : 
+
+Niveau Fonctionnel:
+
+Site Web :
+- Ergonomique;
+- Dynamique;
+- Intuitive;
+
+Au niveau technique :
+-Chartre graphique;
+
+Les choix des couleurs:
+-Du design;
+
+
+Arborescence du site :
+Identifier les acteurs et les espaces qui leurs sont dédiés et les fonctionnalités qui correspondent à leurs profils .
+
+
+Niveau logique :
+Quelles sont les différentes informations essentielles a la réalisation de la BDD.
+Etablir les règles de Gestion.(Dictionnaire des donnés MCD).
+
+Outils Préconomisés :
+-Package Web
+-Langage de programmation 
+-PHP 5
+-Framework
+-Logiciel de Vusionning
+-Gestionnaires de Projet
+-AGL(Win design)
+-Editeur de sources
+
+
+
+	
+Plannification des taches pour respecter les délais. 
