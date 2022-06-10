@@ -1,6 +1,6 @@
 Bonjour,
 
-Voici le lien pour acceder au site après avoir installer le document.zip sur github
+Voici le lien pour acceder au site après avoir installer la base de donnée ainsi que les documents php sur le document.zip sur github
 http://localhost/autoecole-master/Accueil.php
 
 
